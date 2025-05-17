@@ -1,2 +1,3 @@
-# NLP_Assignement
-For submitting the NLP Assignment by sutramsolutions
+# NLP Major Assignement
+For submitting the NLP Major Task by sutramsolutions
+
