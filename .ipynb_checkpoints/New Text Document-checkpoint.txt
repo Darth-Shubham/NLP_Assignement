@@ -1,0 +1,12 @@
+python version = 3.9
+matplotlib
+pandas
+numpy
+re
+tensorflow
+scikit-learn
+nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt_tab')
